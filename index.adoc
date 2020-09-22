@@ -1,0 +1,32 @@
+= Documentation
+Claus Engel-Christensen
+Version 0.1, 22.09.2020
+:toc:
+:doctype: book
+:allow-uri-read:
+:safe: unsafe
+
+== First Section
+
+This is a test
+
+== Second Section
+
+Another test
+
+include::https://raw.githubusercontent.com/clpe04/hookin/master/doc.adoc[]
+
+== Tables
+
+.Table Example Table
+|===
+|Column 1|Column 2|Column 3
+
+|Value 1.1
+|Value 1.2
+|Value 1.3
+
+|Value 2.1
+|Value 2.2
+|Value 2.3
+|===
